@@ -1,0 +1,75 @@
+p {
+    margin: 40px 0;
+}
+
+body {
+    padding: 40px;
+}
+
+label {
+    display: block;
+    font-family: Helvetica, Arial;
+    font-size: 14px;
+    color: blue;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: 2px solid blue;
+}
+
+.text1 {
+    font-size: 60px;
+    line-height: 66px;
+    font-weight: 400;
+    font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+    color: #000;
+    letter-spacing: normal;
+}
+.text2 {
+    font-size: 50px;
+    line-height: 56px;
+    font-weight: 400;
+    font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+    color: #000;
+    letter-spacing: normal;
+}
+.text3 {
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 400;
+    font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+    color: #000;
+    letter-spacing: normal;
+}
+.text4 {
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 300;
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    color: #000;
+    letter-spacing: normal;
+}
+.text5 {
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 300;
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    color: #4b4b4b;
+    letter-spacing: normal;
+}
+.text6 {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000;
+    letter-spacing: normal;
+}
+.text7 {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+    color: #7d7d7d;
+    letter-spacing: normal;
+}
